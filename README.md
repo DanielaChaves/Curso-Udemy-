@@ -6,7 +6,7 @@
 </head>
    <body>
      <h1><strong> Esta é uma tag <i>H1</i> e o "H1" está com ênfase</strong></h1>
-<p> Isto é um <i>parágrafo</i>
+       <p> Isto é um <i>parágrafo</i>
 &nbsp;
 <h2><strong>Isto é um h2 com um atributo id</strong></h2>
 <p><strong>Este parágrafo é importante, está em negrito e tem o seguinte trecho de código: console.log('foobar')</strong></p>
