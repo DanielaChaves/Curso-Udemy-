@@ -5,8 +5,7 @@
 <link rel="stylesheet"=href="https://gist.github.com/Kaioliveira1/a96515a700183658c8c338f32fb64602>
 </head>
 <body>
-
-			     <h1><strong> Esta é uma tag <i>H1</i> e o "H1" está com ênfase</strong></h1>
+<h1><strong> Esta é uma tag <i>H1</i> e o "H1" está com ênfase</strong></h1>
 <p> Isto é um <i>parágrafo</i>
 &nbsp;
 <h2><strong>Isto é um h2 com um atributo id</strong></h2>
